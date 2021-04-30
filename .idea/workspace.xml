@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0d5e872-b123-4856-b87a-7eea49cf3184" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1rSkoYGdIdhqY1nKU5AI4GkE1YW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="emulator" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0d5e872-b123-4856-b87a-7eea49cf3184" name="Default Changelist" comment="" />
+      <created>1618977053176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618977053176</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="139" y="119" width="1292" height="720" key="AVDManager" timestamp="1618981638259">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="139" y="119" width="1292" height="720" key="AVDManager/0.0.1536.960/0.-1080.1920.1080@0.0.1536.960" timestamp="1618981638259" />
+    <state x="50" y="112" key="SettingsEditor" timestamp="1618977148731">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="50" y="112" key="SettingsEditor/0.0.1536.960/0.-1080.1920.1080@0.0.1536.960" timestamp="1618977148731" />
+  </component>
+</project>
